@@ -1,6 +1,6 @@
 To download, go to the releases on the right or follow the link - https://github.com/Hilka-dilka/obfuscate.lua/releases/download/lua/obfuscate.rar
 
-**Alargon's Lua Obfuscator & Deobfuscator (Hex-Based)**
+# **Alargon's Lua Obfuscator & Deobfuscator (Hex-Based)**
 
 A simple yet effective Lua code obfuscation tool that converts your source code into hexadecimal representation with a built-in loader. Perfect for protecting your Lua scripts!
 
